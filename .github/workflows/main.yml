@@ -30,9 +30,6 @@ jobs:
     - name: Build Kernel
       uses: ./
       with:
-      - name: Build Kernel
-        uses: dabao1955/kernel_build_action@main
-        with:
           kernel-url: https://github.com/lasania32198/android_kernel_hisilicon_hi6250/
           kernel-dir: hi6250
           kernel-branch: master
