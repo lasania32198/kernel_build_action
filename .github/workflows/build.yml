@@ -23,5 +23,4 @@ jobs:
           aosp-clang: true
           aosp-clang-version: r383902
           android-version: 12
-          anykernel3: false
-          bootimg-url: https://pixeldrain.com/api/file/DAU8NFwd?download
+          anykernel3: true
