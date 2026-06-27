@@ -16,7 +16,7 @@ jobs:
         with:
           kernel-url: https://github.com/lasania32198/android_kernel_huawei_hi6250-9
           kernel-dir: kernel
-          kernel-branch: main
+          kernel-branch: lineage-20
           config: merge_hi6250_defconfig
           arch: arm64
           aosp-gcc: true
